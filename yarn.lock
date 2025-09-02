@@ -613,7 +613,7 @@ linkify-it@5.0.0:
   dependencies:
     uc.micro "^2.0.0"
 
-mailparser@^3.8.0:
+mailparser@^3.7.0:
   version "3.7.4"
   resolved "https://registry.yarnpkg.com/mailparser/-/mailparser-3.7.4.tgz#dd70550b066fdc35563eda94bee5ab7a8d0c2439"
   integrity sha512-Beh4yyR4jLq3CZZ32asajByrXnW8dLyKCAQD3WvtTiBnMtFWhxO+wa93F6sJNjDmfjxXs4NRNjw3XAGLqZR3Vg==
